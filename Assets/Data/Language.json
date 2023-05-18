@@ -1,0 +1,209 @@
+{
+    "RelisticCarEngineSimulator": {
+        "English": "Realistic Car Engine Simulator",
+        "French": "Simulateur de moteur de voiture réaliste",
+        "Spanish": "Simulador de motor de coche realista",
+        "Portuguese": "Simulador de motor de carro realista",
+        "Hindi": "वास्तविक कार इंजन सिमुलेटर",
+        "Urdu": "حقیقی کار بخارہ موٹر سمولیٹر",
+        "Arabic": "محاكي محرك سيارة حيثياتي"
+    },
+    "Play": {
+        "English": "Play",
+        "French": "Jouer",
+        "Spanish": "Jugar",
+        "Portuguese": "Jogar",
+        "Hindi": "खेलना",
+        "Urdu": "کھیلنا",
+        "Arabic": "لعب"
+    },
+    "Setting": {
+        "English": "Setting",
+        "French": "Réglage",
+        "Spanish": "Ajuste",
+        "Portuguese": "Configuração",
+        "Hindi": "सेटिंग",
+        "Urdu": "ترتیب",
+        "Arabic": "إعداد"
+    },
+    "Sound": {
+        "English": "Sound",
+        "French": "Son",
+        "Spanish": "Sonido",
+        "Portuguese": "Som",
+        "Hindi": "ध्वनि",
+        "Urdu": "آواز",
+        "Arabic": "صوت"
+    },
+    "Vibrate": {
+        "English": "Vibrate",
+        "French": "Vibrer",
+        "Spanish": "Vibrar",
+        "Portuguese": "Vibrar",
+        "Hindi": "हिलना",
+        "Urdu": "لرزنا",
+        "Arabic": "اهتزاز"
+    },
+    "Flash": {
+        "English": "Flash",
+        "French": "Flash",
+        "Spanish": "Destello",
+        "Portuguese": "Piscar",
+        "Hindi": "फ्लैश",
+        "Urdu": "فلیش",
+        "Arabic": "وميض"
+    },
+    "SwipeToView": {
+        "English": "Swipe to view",
+        "French": "Balayez pour afficher",
+        "Spanish": "Deslice para ver",
+        "Portuguese": "Deslize para ver",
+        "Hindi": "देखने के लिए स्वाइप करें",
+        "Urdu": "دیکھنے کے لئے کشش کریں",
+        "Arabic": "مرر لعرض"
+    },
+    "Unlock": {
+        "English": "Unlock",
+        "French": "Déverrouiller",
+        "Spanish": "Desbloquear",
+        "Portuguese": "Desbloquear",
+        "Hindi": "अनलॉक करें",
+        "Urdu": "کھول دو",
+        "Arabic": "فتح"
+    },
+    "YourFelIsOut": {
+        "English": "Your fuel is out",
+        "French": "Votre carburant est épuisé",
+        "Spanish": "Tu combustible se ha agotado",
+        "Portuguese": "Seu combustível está sem",
+        "Hindi": "आपकी ईंधन खत्म हो गई है",
+        "Urdu": "آپ کی براؤز ختم ہو گئی ہے",
+        "Arabic": "نفدت سولارك"
+    },
+    "NoThanks": {
+        "English": "No, Thanks",
+        "French": "Non, merci",
+        "Spanish": "No, gracias",
+        "Portuguese": "Não, obrigado",
+        "Hindi": "नहीं, धन्यवाद",
+        "Urdu": "نہیں، شکریہ",
+        "Arabic": "لا، شكرا"
+    },
+    "Refill": {
+        "English": "Refill",
+        "French": "Remplir",
+        "Spanish": "Recargar",
+        "Portuguese": "Recarregar",
+        "Hindi": "पुनः भरें",
+        "Urdu": "دوبارہ بھریں",
+        "Arabic": "إعادة الإمداد"
+    },
+    "Languagee": {
+        "English": "Language",
+        "French": "Langue",
+        "Spanish": "Idioma",
+        "Portuguese": "Língua",
+        "Hindi": "भाषा",
+        "Urdu": "زبان",
+        "Arabic": "لغة"
+    },
+    "ChooseYourLanguage": {
+        "English": "Choose Your Language",
+        "French": "Choisissez votre langue",
+        "Spanish": "Elige tu idioma",
+        "Portuguese": "Escolha seu idioma",
+        "Hindi": "अपनी भाषा चुनें",
+        "Urdu": "آپ کی زبان منتخب کریں",
+        "Arabic": "اختر لغتك"
+    },
+    "Ok": {
+        "English": "Ok",
+        "French": "D'accord",
+        "Spanish": "De acuerdo",
+        "Portuguese": "Ok",
+        "Hindi": "ठीक",
+        "Urdu": "حسنا",
+        "Arabic": "حسنا"
+    },
+    "ThisActionCanContainAds": {
+        "English": "This action can contain ads...",
+        "French": "Cette action peut contenir des annonces...",
+        "Spanish": "Esta acción puede contener anuncios...",
+        "Portuguese": "Esta ação pode conter anúncios...",
+        "Hindi": "इस क्रिया में विज्ञापन शामिल हो सकते हैं...",
+        "Urdu": "یہ عمل تزیینات شامل بھی شامل ہو سکتا ہے...",
+        "Arabic": "هذا الإجراء يمكن أن يحتوي على الإعلانات..."
+    },
+    "Skip": {
+        "English": "Skip",
+        "French": "Sauter",
+        "Spanish": "Saltar",
+        "Portuguese": "Ignorar",
+        "Hindi": "छोड़ें",
+        "Urdu": "چھوڑ دو",
+        "Arabic": "تخطى"
+    },
+    "Next": {
+        "English": "Next",
+        "French": "Suivant",
+        "Spanish": "Siguiente",
+        "Portuguese": "Próximo",
+        "Hindi": "अगला",
+        "Urdu": "اگلا",
+        "Arabic": "التالي"
+    },
+    "Home": {
+        "English": "Home",
+        "French": "Accueil",
+        "Spanish": "Inicio",
+        "Portuguese": "Início",
+        "Hindi": "घर",
+        "Urdu": "گھر",
+        "Arabic": "الصفحة الرئيسية"
+    },
+    "TutorialHomeTab": {
+        "English": "SWIPE TO VIEW THE CAR COLLECTION",
+        "French": "BALAYEZ POUR VOIR LA COLLECTION DE VOITURES",
+        "Spanish": "DESPLAZA PARA VER LA COLECCIÓN DE AUTOS",
+        "Portuguese": "DESLOQUE PARA VER A COLEÇÃO DE CARROS",
+        "Hindi": "कार संग्रह देखने के लिए स्वाइप करें",
+        "Urdu": "کار کلیکشن دیکھنے کے لئے سوائپ کریں",
+        "Arabic": "اسحب لعرض مجموعة السيارات"
+    },
+    "CarSpecs": {
+        "English": "CAR SPECS",
+        "French": "SPÉCIFICATIONS DE LA VOITURE",
+        "Spanish": "ESPECIFICACIONES DEL COCHE",
+        "Portuguese": "ESPECIFICAÇÕES DO CARRO",
+        "Hindi": "कार विनिर्देश",
+        "Urdu": "کار کی معیاری تفصیلات",
+        "Arabic": "مواصفات السيارة"
+    },
+    "TutorialSelectTab": {
+        "English": "ROTATE TO VIEW THE CAR'S DIMENSIONS and Swipe to rotate the car, click to show specs",
+        "French": "FAITES TOURNER POUR VOIR LES DIMENSIONS DE LA VOITURE et Balayez pour faire tourner la voiture, cliquez pour afficher les spécifications",
+        "Spanish": "ROTA PARA VER LAS DIMENSIONES DEL COCHE y Desplaza para rotar el coche, haz clic para mostrar las especificaciones",
+        "Portuguese": "GIRE PARA VER AS DIMENSÕES DO CARRO e Desloque para girar o carro, clique para mostrar as especificações",
+        "Hindi": "कार के आयाम देखने के लिए घुमाएं और कार को घुमाने के लिए स्वाइप करें, विनिर्देश दिखाने के लिए क्लिक करें",
+        "Urdu": "کار کے اعدادوشمار دیکھنے کے لئے گھمائیں اور کار کو گھمانے کے لئے سوائپ کریں، معیاری تفصیلات دکھانے کے لئے کلک کریں",
+        "Arabic": "دور لعرض أبعاد السيارة واسحب لتدوير السيارة، انقر لعرض المواصفات"
+    },
+    "CarInterior": {
+        "English": "Car Interior",
+        "French": "Intérieur de la voiture",
+        "Spanish": "Interior del coche",
+        "Portuguese": "Interior do carro",
+        "Hindi": "कार के आंतरिक सामग्री",
+        "Urdu": "کار کی اندرونی حصہ",
+        "Arabic": "داخلية السيارة"
+    },
+    "TutorialGameTab": {
+        "English": "INTERACT WITH DIFFERENT BUTTONS TO CONTROL THE CAR and you need to boot to use the functions",
+        "French": "INTERAGISSEZ AVEC DIFFÉRENTS BOUTONS POUR CONTRÔLER LA VOITURE et vous devez démarrer pour utiliser les fonctions",
+        "Spanish": "INTERACTÚA CON DIFERENTES BOTONES PARA CONTROLAR EL COCHE y necesitas encenderlo para usar las funciones",
+        "Portuguese": "INTERAJA COM DIFERENTES BOTÕES PARA CONTROLAR O CARRO e você precisa ligá-lo para usar as funções",
+        "Hindi": "कार को नियंत्रित करने के लिए विभिन्न बटनों से इंटरैक्ट करें और फंक्शन का उपयोग करने के लिए आपको बूट करने की आवश्यकता है",
+        "Urdu": "کار کو کنٹرول کرنے کے لئے مختلف بٹنوں سے انٹریکٹ کریں اور آپ کو فنکشن کا استعمال کرنے کے لئے بوٹ کرنے کی ضرورت ہے",
+        "Arabic": "تفاعل مع أزرار مختلفة للتحكم في السيارة وتحتاج إلى التمهيد لاستخدام الوظائف"
+    }
+}
