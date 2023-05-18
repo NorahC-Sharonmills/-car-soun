@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">251259158358</string>
+  <string name="google_storage_bucket" translatable="false">car-sound-simulator.appspot.com</string>
+  <string name="project_id" translatable="false">car-sound-simulator</string>
+  <string name="google_api_key" translatable="false">AIzaSyBpYRQkFuHEUJQsepA1cTHTJHOdRQkhnYw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpYRQkFuHEUJQsepA1cTHTJHOdRQkhnYw</string>
+  <string name="google_app_id" translatable="false">1:251259158358:android:6781f985d09d886f5be0f7</string>
+  <string name="default_web_client_id" translatable="false">251259158358-54c6gpv52djsr1f1n8m2sjn61ag8eg39.apps.googleusercontent.com</string>
+</resources>
