@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a3aa2d6312fe246939554d46031020a6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCielBC Cubano
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 27f4b6db4f9f240d097de5201ffa322c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
