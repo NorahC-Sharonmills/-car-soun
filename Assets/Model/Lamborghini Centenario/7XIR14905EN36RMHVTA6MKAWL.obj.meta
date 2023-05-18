@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 03e1cfa07eb85447eab8f02008cc74f8
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0000_Lamborghini_Centenario_Shape_Material001
+    second: {fileID: 2100000, guid: c04bf4a2ce98d4a9085ca547d0b12777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0001_Lamborghini_Centenario_Shape_Material002
+    second: {fileID: 2100000, guid: 982d409b7a4b549379d60c64c0227ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0002_Lamborghini_Centenario_Shape_Material003
+    second: {fileID: 2100000, guid: fb32c8779fc46487da0bd95a3a6452e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0003_Lamborghini_Centenario_Shape_Material004
+    second: {fileID: 2100000, guid: 0c380bd97cbe14caf8e49015008b93fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0004_Lamborghini_Centenario_Shape_Material005
+    second: {fileID: 2100000, guid: 1b50b26960e754e7cbb444271fd002df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0005_Lamborghini_Centenario_Shape_Material006
+    second: {fileID: 2100000, guid: 97bd4f50b086c47b29c05daffd99a078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0006_Lamborghini_Centenario_Shape_Material007
+    second: {fileID: 2100000, guid: 4ede3aba6902e43e6a33a0d6d2b84fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0007_Lamborghini_Centenario_Shape_Material008
+    second: {fileID: 2100000, guid: 322408cf9bf0149c0881361fee0b8e2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0008_Lamborghini_Centenario_Shape_Material009
+    second: {fileID: 2100000, guid: 98f8d17b78956459bb3c04d7c566e516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0009_Lamborghini_Centenario_Shape_Material010
+    second: {fileID: 2100000, guid: cfbe2ee8e011e4d82839e17b402e97a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0010_Lamborghini_Centenario_Shape_Material011
+    second: {fileID: 2100000, guid: f6f1b08e020cb445eb8424057ca50b44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0011_Lamborghini_Centenario_Shape_Material012
+    second: {fileID: 2100000, guid: 21f62d7f5777d405fa027282b031bc97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0012_Lamborghini_Centenario_Shape_Material013
+    second: {fileID: 2100000, guid: 95262160fd50d4178b31b4652f9fd8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0013_Lamborghini_Centenario_Shape_Material014
+    second: {fileID: 2100000, guid: 6205cc331d15247c6aab8a9d70a851b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0014_Lamborghini_Centenario_Shape_Material015
+    second: {fileID: 2100000, guid: 960ce3ca5a3624ee38be4843909dd8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0015_Lamborghini_Centenario_Shape_Material016
+    second: {fileID: 2100000, guid: 8cf9f7afaaeb24f558ed42711a65b947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0016_Lamborghini_Centenario_Shape_Material017
+    second: {fileID: 2100000, guid: b4056fa0b5eda45439161e5c4f97f914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0017_Lamborghini_Centenario_Shape_Material018
+    second: {fileID: 2100000, guid: 0351f719f239c423e9795dba4a613123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0018_Lamborghini_Centenario_Shape_Material019
+    second: {fileID: 2100000, guid: bd0688838f14a4665bf461188ef3de62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0019_Lamborghini_Centenario_Shape_Material020
+    second: {fileID: 2100000, guid: ba62ab09f30ac46f7b275de45b5858f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0020_Lamborghini_Centenario_Shape_Material021
+    second: {fileID: 2100000, guid: 5572a24fbacc143b784a6ed3c59fbd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0021_Lamborghini_Centenario_Shape_Material022
+    second: {fileID: 2100000, guid: e963c0c41ff60442d883cf5f89ffedbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0022_Lamborghini_Centenario_Shape_Material023
+    second: {fileID: 2100000, guid: bcb9a157b35194b4789fe6e482b27328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0023_Lamborghini_Centenario_Shape_Material024
+    second: {fileID: 2100000, guid: 81d2c43b3e4a4420a8c8ff7db1c15331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0024_Lamborghini_Centenario_Shape_Material025
+    second: {fileID: 2100000, guid: 6ec3cfcbd5f2d4e23899dec92a1a81a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0025_Lamborghini_Centenario_Shape_Material026
+    second: {fileID: 2100000, guid: fb6935ade03fe463eb958976e8c441f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0026_Lamborghini_Centenario_Shape_Material027
+    second: {fileID: 2100000, guid: 66dc1cfbc429f409a9403e78c7f31752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0027_Lamborghini_Centenario_Shape_Material028
+    second: {fileID: 2100000, guid: ed8c7000593954bd4b61b4cc61ec72a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0028_Lamborghini_Centenario_Shape_Material029
+    second: {fileID: 2100000, guid: d7517e642caff4fa8a7aa39eec4aad1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0029_Lamborghini_Centenario_Shape_Material030
+    second: {fileID: 2100000, guid: 3846e1a80bd5d45b3b676a10ebf9f0db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0030_Lamborghini_Centenario_Shape_Material031
+    second: {fileID: 2100000, guid: 8e233a4591c564e8ca48eea7f915beda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0031_Lamborghini_Centenario_Shape_Material032
+    second: {fileID: 2100000, guid: 694ebe93a9ce443adbeb77b53e717f08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0032_Lamborghini_Centenario_Shape_Material033
+    second: {fileID: 2100000, guid: 4840cec66c47247c9929681cf064ed94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0033_Lamborghini_Centenario_Shape_Material034
+    second: {fileID: 2100000, guid: c48fd28be96204517980c41347039815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0034_Lamborghini_Centenario_Shape_Material035
+    second: {fileID: 2100000, guid: 652dcb2a2a851480cb6ca2ff26099104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0035_Lamborghini_Centenario_Shape_Material036
+    second: {fileID: 2100000, guid: a0cef8e5125d441d3b21ad4eca00241f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0036_Lamborghini_Centenario_Shape_Material037
+    second: {fileID: 2100000, guid: c40427fe5564b4835aa80704e0ec8e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0037_Lamborghini_Centenario_Shape_Material038
+    second: {fileID: 2100000, guid: 0cb02ef40e6ea48318108486fada3e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0038_Lamborghini_Centenario_Shape_Material039
+    second: {fileID: 2100000, guid: 9991826b4a0db4191ad2fd9df7dfdda7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0039_Lamborghini_Centenario_Shape_Material040
+    second: {fileID: 2100000, guid: dfcd0f1f6f3444e91b06d8a0aad6e59f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0040_Lamborghini_Centenario_Shape_Material041
+    second: {fileID: 2100000, guid: 1fa96829b949f4bf295b0e75774d33ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0041_Lamborghini_Centenario_Shape_Material042
+    second: {fileID: 2100000, guid: b14613f5a793c49f6b8d8895a3784fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0042_Lamborghini_Centenario_Shape_Material043
+    second: {fileID: 2100000, guid: 2c883030c2365441ba0477a15d52df83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0043_Lamborghini_Centenario_Shape_Material044
+    second: {fileID: 2100000, guid: 7396cdd9d78b84397a7ada4c1fec16f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0044_Lamborghini_Centenario_Shape_Material045
+    second: {fileID: 2100000, guid: 4178061966eaa40a69c6ec602af4b476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0045_Lamborghini_Centenario_Shape_Material046
+    second: {fileID: 2100000, guid: 4686f2ff740154afab84041faa953be9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0046_Lamborghini_Centenario_Shape_Material047
+    second: {fileID: 2100000, guid: c25fd0231b79143dfaa4995235418b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0047_Lamborghini_Centenario_Shape_Material048
+    second: {fileID: 2100000, guid: bb63368f2c8ed4190b9a6c0436ce25d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0048_Lamborghini_Centenario_Shape_Material049
+    second: {fileID: 2100000, guid: 7c52d7ac0b6a443d887fbbf8c5d4d087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0049_Lamborghini_Centenario_Shape_Material050
+    second: {fileID: 2100000, guid: a2f46abaa402d43818f83ac3f82fcf9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0050_Lamborghini_Centenario_Shape_Material051
+    second: {fileID: 2100000, guid: 7da88be06621b47c4a1be43546e0ff7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0051_Lamborghini_Centenario_Shape_Material052
+    second: {fileID: 2100000, guid: 164909a0bfa3541d4b776828b25dc2b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0052_Lamborghini_Centenario_Shape_Material053
+    second: {fileID: 2100000, guid: 2bf9ee24146e44faaaeb8cbecedefb01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0053_Lamborghini_Centenario_Shape_Material054
+    second: {fileID: 2100000, guid: 82d5e15c998e34efabac82eee4197262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0054_Lamborghini_Centenario_Shape_Material055
+    second: {fileID: 2100000, guid: 633e7907553ec4c40a28879a3b63246c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0055_Lamborghini_Centenario_Shape_Material056
+    second: {fileID: 2100000, guid: 2f4d37572fd1647cf92bf3363305a1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0056_Lamborghini_Centenario_Shape_Material057
+    second: {fileID: 2100000, guid: 0a86943e5e17e40a4a7be4932893b4ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0057_Lamborghini_Centenario_Shape_Material058
+    second: {fileID: 2100000, guid: 8c07270bf70a24380ab69d8fc6841334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0058_Lamborghini_Centenario_Shape_Material059
+    second: {fileID: 2100000, guid: f18ce77f85cf9404a813d1b75f143232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0059_Lamborghini_Centenario_Shape_Material060
+    second: {fileID: 2100000, guid: 76075efb2cd94406faf30545d1575ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0060_Lamborghini_Centenario_Shape_Material061
+    second: {fileID: 2100000, guid: f267d2dfd71384d8dae7579f5d66e0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0061_Lamborghini_Centenario_Shape_Material062
+    second: {fileID: 2100000, guid: 78e648d07e541488293712cea91f759c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0062_Lamborghini_Centenario_Shape_Material063
+    second: {fileID: 2100000, guid: bfd9bf28d0aee434fbbffbbaada1c3ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0063_Lamborghini_Centenario_Shape_Material064
+    second: {fileID: 2100000, guid: 29fd7eabff30b40ff8412d51aba8953b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0064_Lamborghini_Centenario_Shape_Material065
+    second: {fileID: 2100000, guid: eb9aa3a9482c1436ebe425bbbd406efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0065_Lamborghini_Centenario_Shape_Material066
+    second: {fileID: 2100000, guid: 7f098fee7f0ec485f8cbb794ff235b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0066_Lamborghini_Centenario_Shape_Material067
+    second: {fileID: 2100000, guid: 5f3a1c1f38f9d42898f80715b28c4560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0067_Lamborghini_Centenario_Shape_Material068
+    second: {fileID: 2100000, guid: 8b9634168757b4b1989926fce8f46f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0068_Lamborghini_Centenario_Shape_Material069
+    second: {fileID: 2100000, guid: f4ae20519221e46fc9c9948277138b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0069_Lamborghini_Centenario_Shape_Material070
+    second: {fileID: 2100000, guid: e2b56a8c794874d66a2384e905c27a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0070_Lamborghini_Centenario_Shape_Material071
+    second: {fileID: 2100000, guid: ed0266e87751443939cd1bea89f7f6af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0071_Lamborghini_Centenario_Shape_Material072
+    second: {fileID: 2100000, guid: f6fa0939988be4182ba7c2ad1741c15c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0072_Lamborghini_Centenario_Shape_Material073
+    second: {fileID: 2100000, guid: 6b6b029bd3b3f4b6a89256866dce037c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0073_Lamborghini_Centenario_Shape_Material074
+    second: {fileID: 2100000, guid: 30b7236f9c5c5453ebb773d27ed82718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0074_Lamborghini_Centenario_Shape_Material075
+    second: {fileID: 2100000, guid: 56d210ece823c4c13871a1bc89566754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0075_Lamborghini_Centenario_Shape_Material076
+    second: {fileID: 2100000, guid: ead65cf82ec4443fba07139df30e9a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0076_Lamborghini_Centenario_Shape_Material077
+    second: {fileID: 2100000, guid: bb45b832242664d9aaa73f7d483e7e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0077_Lamborghini_Centenario_Shape_Material078
+    second: {fileID: 2100000, guid: b37a6d4b30ad543d9906c55d195d75e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0078_Lamborghini_Centenario_Shape_Material079
+    second: {fileID: 2100000, guid: 9b6f3b78a5a9f4f68b812661d73dba15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model0079_Lamborghini_Centenario_Shape_Material080
+    second: {fileID: 2100000, guid: 892a6642f88434db59ce8369cae77b00, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

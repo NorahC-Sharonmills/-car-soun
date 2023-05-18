@@ -1,0 +1,721 @@
+newmtl Model0000_Lamborghini_Centenario_Shape_Material001
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0001_Lamborghini_Centenario_Shape_Material002
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0002_Lamborghini_Centenario_Shape_Material003
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0003_Lamborghini_Centenario_Shape_Material004
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0004_Lamborghini_Centenario_Shape_Material005
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0005_Lamborghini_Centenario_Shape_Material006
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0006_Lamborghini_Centenario_Shape_Material007
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd yellow.png
+
+newmtl Model0007_Lamborghini_Centenario_Shape_Material008
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd logo1.png
+
+newmtl Model0008_Lamborghini_Centenario_Shape_Material009
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd logo1.png
+
+newmtl Model0009_Lamborghini_Centenario_Shape_Material010
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd lamborghini-centenario-logo.png
+
+newmtl Model0010_Lamborghini_Centenario_Shape_Material011
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd lamborghini-centenario-logo.png
+
+newmtl Model0011_Lamborghini_Centenario_Shape_Material012
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0012_Lamborghini_Centenario_Shape_Material013
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0013_Lamborghini_Centenario_Shape_Material014
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0014_Lamborghini_Centenario_Shape_Material015
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0015_Lamborghini_Centenario_Shape_Material016
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0016_Lamborghini_Centenario_Shape_Material017
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd ChromePure_albedo.png
+
+newmtl Model0017_Lamborghini_Centenario_Shape_Material018
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd ChromePure_albedo.png
+
+newmtl Model0018_Lamborghini_Centenario_Shape_Material019
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0019_Lamborghini_Centenario_Shape_Material020
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0020_Lamborghini_Centenario_Shape_Material021
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0021_Lamborghini_Centenario_Shape_Material022
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0022_Lamborghini_Centenario_Shape_Material023
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0023_Lamborghini_Centenario_Shape_Material024
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Grid_D.png
+
+newmtl Model0024_Lamborghini_Centenario_Shape_Material025
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Detail_Int_D.png
+
+newmtl Model0025_Lamborghini_Centenario_Shape_Material026
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Detail_Int_D.png
+
+newmtl Model0026_Lamborghini_Centenario_Shape_Material027
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Detail_Int_D.png
+
+newmtl Model0027_Lamborghini_Centenario_Shape_Material028
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Mechanicals_D.png
+
+newmtl Model0028_Lamborghini_Centenario_Shape_Material029
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd interior_lod0_noa.png
+
+newmtl Model0029_Lamborghini_Centenario_Shape_Material030
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass.png
+
+newmtl Model0030_Lamborghini_Centenario_Shape_Material031
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass.png
+
+newmtl Model0031_Lamborghini_Centenario_Shape_Material032
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass.png
+
+newmtl Model0032_Lamborghini_Centenario_Shape_Material033
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0033_Lamborghini_Centenario_Shape_Material034
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd eng_red.png
+
+newmtl Model0034_Lamborghini_Centenario_Shape_Material035
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Lights_D.png
+
+newmtl Model0035_Lamborghini_Centenario_Shape_Material036
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Lights_D.png
+
+newmtl Model0036_Lamborghini_Centenario_Shape_Material037
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Plate_D.png
+
+newmtl Model0037_Lamborghini_Centenario_Shape_Material038
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Details_D.png
+
+newmtl Model0038_Lamborghini_Centenario_Shape_Material039
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd red.png
+
+newmtl Model0039_Lamborghini_Centenario_Shape_Material040
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass_black8.png
+
+newmtl Model0040_Lamborghini_Centenario_Shape_Material041
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass_black8.png
+
+newmtl Model0041_Lamborghini_Centenario_Shape_Material042
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Carpet.png
+
+newmtl Model0042_Lamborghini_Centenario_Shape_Material043
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0043_Lamborghini_Centenario_Shape_Material044
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd yellow.png
+
+newmtl Model0044_Lamborghini_Centenario_Shape_Material045
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0045_Lamborghini_Centenario_Shape_Material046
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0046_Lamborghini_Centenario_Shape_Material047
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0047_Lamborghini_Centenario_Shape_Material048
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd interior_d_noa.png
+
+newmtl Model0048_Lamborghini_Centenario_Shape_Material049
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd interior_d_noa.png
+
+newmtl Model0049_Lamborghini_Centenario_Shape_Material050
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd interior_emissive_noa.png
+
+newmtl Model0050_Lamborghini_Centenario_Shape_Material051
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0051_Lamborghini_Centenario_Shape_Material052
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass.png
+
+newmtl Model0052_Lamborghini_Centenario_Shape_Material053
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Custom_Trim_D.png
+
+newmtl Model0053_Lamborghini_Centenario_Shape_Material054
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd logo3.png
+
+newmtl Model0054_Lamborghini_Centenario_Shape_Material055
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Gauges2.png
+
+newmtl Model0055_Lamborghini_Centenario_Shape_Material056
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 0.500000
+illum 2
+Ns 9.84916
+map_Kd glass.png
+
+newmtl Model0056_Lamborghini_Centenario_Shape_Material057
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Gauges2.png
+
+newmtl Model0057_Lamborghini_Centenario_Shape_Material058
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd ChromePure_albedo.png
+
+newmtl Model0058_Lamborghini_Centenario_Shape_Material059
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Lights_D.png
+
+newmtl Model0059_Lamborghini_Centenario_Shape_Material060
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Lights_D.png
+
+newmtl Model0060_Lamborghini_Centenario_Shape_Material061
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd logo3.png
+
+newmtl Model0061_Lamborghini_Centenario_Shape_Material062
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Lights_D.png
+
+newmtl Model0062_Lamborghini_Centenario_Shape_Material063
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0063_Lamborghini_Centenario_Shape_Material064
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0064_Lamborghini_Centenario_Shape_Material065
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Grid_D.png
+
+newmtl Model0065_Lamborghini_Centenario_Shape_Material066
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0066_Lamborghini_Centenario_Shape_Material067
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0067_Lamborghini_Centenario_Shape_Material068
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Details_D.png
+
+newmtl Model0068_Lamborghini_Centenario_Shape_Material069
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd rubber.png
+
+newmtl Model0069_Lamborghini_Centenario_Shape_Material070
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd K_ALR21.png
+
+newmtl Model0070_Lamborghini_Centenario_Shape_Material071
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd K_ALR21.png
+
+newmtl Model0071_Lamborghini_Centenario_Shape_Material072
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Mechanicals_D.png
+
+newmtl Model0072_Lamborghini_Centenario_Shape_Material073
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Brake_Caliper_D.png
+
+newmtl Model0073_Lamborghini_Centenario_Shape_Material074
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Brake_Disk_Blurred_D.png
+
+newmtl Model0074_Lamborghini_Centenario_Shape_Material075
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0075_Lamborghini_Centenario_Shape_Material076
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Carbon.png
+
+newmtl Model0076_Lamborghini_Centenario_Shape_Material077
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+newmtl Model0077_Lamborghini_Centenario_Shape_Material078
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Wheel_Screw_Nuts_D.png
+
+newmtl Model0078_Lamborghini_Centenario_Shape_Material079
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd Tyre_D2.png
+
+newmtl Model0079_Lamborghini_Centenario_Shape_Material080
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.698039
+Ks 0.000000 0.000000 0.000000
+d 1.000000
+illum 2
+Ns 9.84916
+map_Kd metal.png
+
+
